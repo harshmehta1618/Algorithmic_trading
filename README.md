@@ -1,2 +1,4 @@
 # Algorithmic_trading
-this contains project related to algorithmic trading
+this contains projects related to algorithmic trading
+<br>
+author: Harsh Mehta
