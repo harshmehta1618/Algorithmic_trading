@@ -1,5 +1,5 @@
 # Ignore my_secrets.py
 my_secrets.py
-
+my_secrets2.py
 # Ignore compiled Python files
 *.pyc
